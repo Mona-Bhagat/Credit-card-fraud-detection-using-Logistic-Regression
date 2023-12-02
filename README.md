@@ -2,6 +2,9 @@
 
 # Credit card fraud detection 
 
+![CaptureCC](https://github.com/Mona-Bhagat/Creditcard_frauddetection/assets/148805047/2570314a-0474-45ee-bc81-d792946c23cc)
+
+
 # Project Overview
 This data project aims to develop a Credit card Fraud Detection system using Machine Learning with Python
 
